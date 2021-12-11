@@ -1,6 +1,6 @@
 This project is to illustarte the basic concepts of python programming. It covers the following topics:
 ==================================================================================================
-
+     
 -> Python Data Types  : Numbers(Integer and Float), Strings, List, Set, Tuple, Dictionary
 
 -> Python Comments : Single line and multi line comments
